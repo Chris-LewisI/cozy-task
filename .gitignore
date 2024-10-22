@@ -1,3 +1,4 @@
 **/*.class
 .git
 .vscode/
+tasks.ser
